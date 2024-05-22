@@ -16,3 +16,6 @@ const obj2 = {
 };
 
 console.log(areObjectsEqual(obj1, obj2));
+
+//OUTPUT
+      true
