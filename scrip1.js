@@ -18,3 +18,13 @@ xhr.onload = function () {
     console.log(res3);
   }
 };
+
+//OUTPUT
+country name:  Moldova
+country population:  2617820
+religion:  Europe
+subregion:  Eastern Europe
+country name:  United States
+country population:  329484123
+religion:  Americas
+subregion:  North America
