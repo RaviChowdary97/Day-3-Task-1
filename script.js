@@ -8,7 +8,7 @@ xhr.onload = function () {
   console.log("data", data);
   console.log(data[153].name.common);
   for (var i in data) {
-    const res = data[i].flags;
+    const res = data[i].flags.png;
     console.log(res);
   }
 };
